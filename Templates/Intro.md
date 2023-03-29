@@ -1,4 +1,4 @@
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/LevelSpecific/Logos/@lab.Variable(difficulty).md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/master/Templates/LevelSpecific/Logos/@lab.Variable(difficulty).md)
 
 # !INSTRUCTIONS[][challenge-title]
 
@@ -10,5 +10,5 @@ Challenge Overview
 
 !INSTRUCTIONS[][overview]
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V2-Framework/master/Templates/LabHelp.md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/master/Templates/LabHelp.md)
 
