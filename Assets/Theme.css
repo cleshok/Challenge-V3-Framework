@@ -1,4 +1,11 @@
 /* Resets */
+body {
+  -webkit-print-color-adjust: exact !important;
+  color-adjust: exact !important;
+  print-color-adjust: exact !important;
+}
+
+
 code:not(.nocopy) {
     margin: 0;
   }
@@ -339,7 +346,7 @@ code:not(.nocopy) {
   
   /* Toggle */
   
-  .instructions select[data-name="difficulty"]{
+  .instructions select[data-name="ShowHints"]{
   visibility: hidden;
   }
   
@@ -392,11 +399,11 @@ code:not(.nocopy) {
   }
   
   .instructions input:checked+.slider {
-    background-color: #1a7b4a;
+    background-color: #aaa;
   }
   
   .instructions input:focus+.slider {
-    box-shadow: 0 0 1px #1a7b4a;
+    box-shadow: 0 0 1px #aaa;
   }
   
   .instructions input:checked+.slider:before {
@@ -613,3 +620,24 @@ code:not(.nocopy) {
     margin-left: 10px;
     font-size: 0.9em;
   }
+  
+  
+#print-container{
+  float: right;
+}
+
+#print-icon{
+  cursor: pointer;
+}
+
+@media print{
+  #evaluation, #print-container{
+    display: none;
+  }
+
+  body {
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}
