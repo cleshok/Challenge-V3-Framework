@@ -2,7 +2,7 @@
 
 ::: labhelp
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/master/Templates/Environments/@lab.Variable(cloudEnvironment).md)
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Environments/@lab.Variable(cloudEnvironment).md)
 
 <details class=info-icon>
 <summary title="Select for More...">Quick tips for navigating the Challenge Lab instructions.</summary>
