@@ -1,1 +1,3 @@
-# Challenge-V3-Framework
+# Challenge V3 Framework
+
+Assets used by Flat IDLx Challenge Labs.
