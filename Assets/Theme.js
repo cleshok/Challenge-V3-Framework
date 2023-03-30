@@ -137,6 +137,9 @@ if (document.querySelector('link[href^="/css/exam-result/result.css"]') != null)
   
       let content = `<div id="report-container">
         <div id="report-body">
+          <div id="print-container">
+            <a id="print-icon" onclick="print();">Print</a>
+          </div>
           <div class="report-section">
             <h1 id="report-header">${summaryHeader}</h1>
           </div>
@@ -223,38 +226,37 @@ if (document.querySelector('link[href^="/css/exam-result/result.css"]') != null)
     }
   
   } else {
-    // Difficulty Toggle
+    // Hint Toggle
   
     // Starting state
-    if ($('select[data-name="difficulty"]').val() == 'Advanced') {
+    if ($('select[data-name="ShowHints"]').val() == 'No') {
       $('input.checkMode').attr('checked', true);
     }
     else {
       $('input.checkMode').removeAttr('checked');
     }
-    $('select[data-name="difficulty"]').trigger("change");
+    $('select[data-name="ShowHints"]').trigger("change");
   
     $('body').off().on('click', 'input.checkMode', function () {
       // Is checkbox checked?
       if ($(this).is(':checked')) {
         //add extra option
-        $('select[data-name="difficulty"] option[value="Advanced"]').prop('selected', true)
+        $('select[data-name="ShowHints"]] option[value="No"]').prop('selected', true)
         $('input.checkMode').prop("checked", true);
-        $('select[data-name="difficulty"]').trigger("change");
+        $('select[data-name="ShowHints"]]').trigger("change");
       } else {
         //remove extra option
-        $('select[data-name="difficulty"] option[value="Guided"]').prop('selected', true)
+        $('select[data-name="ShowHints"]] option[value="Yes"]').prop('selected', true)
         $('input.checkMode').prop("checked", false);
-        $('select[data-name="difficulty"]').trigger("change");
+        $('select[data-name="ShowHints"]]').trigger("change");
       }
     });
   
     $("#next").on('click', function(){
       if ( $("#page1").hasClass("selected") ){
-        if ($('select[data-name="difficulty"]').val() == 'Advanced') {
+        if ($('select[data-name="ShowHints"]]').val() == 'No') {
           $('input.checkMode').attr('checked', true);
         }
       }
     });
-    
   }
