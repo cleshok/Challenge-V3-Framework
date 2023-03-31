@@ -229,33 +229,35 @@ if (document.querySelector('link[href^="/css/exam-result/result.css"]') != null)
     // Hint Toggle
   
     // Starting state
-    if ($('select[data-name="ShowHints"]').val() == 'No') {
+    if ($('select[data-name="ShowHints"]').val() == 'Yes') {
       $('input.checkMode').attr('checked', true);
     }
     else {
       $('input.checkMode').removeAttr('checked');
     }
+    
     $('select[data-name="ShowHints"]').trigger("change");
   
     $('body').off().on('click', 'input.checkMode', function () {
       // Is checkbox checked?
       if ($(this).is(':checked')) {
         //add extra option
-        $('select[data-name="ShowHints"]] option[value="No"]').prop('selected', true)
+        $('select[data-name="ShowHints"] option[value="Yes"]').prop('selected', true)
         $('input.checkMode').prop("checked", true);
-        $('select[data-name="ShowHints"]]').trigger("change");
+        $('select[data-name="ShowHints"]').trigger("change");
       } else {
         //remove extra option
-        $('select[data-name="ShowHints"]] option[value="Yes"]').prop('selected', true)
+        $('select[data-name="ShowHints"] option[value="No"]').prop('selected', true)
         $('input.checkMode').prop("checked", false);
-        $('select[data-name="ShowHints"]]').trigger("change");
+        $('select[data-name="ShowHints"]').trigger("change");
       }
     });
   
     $("#next").on('click', function(){
       if ( $("#page1").hasClass("selected") ){
-        if ($('select[data-name="ShowHints"]]').val() == 'No') {
+        if ($('select[data-name="ShowHints"]').val() == 'Yes') {
           $('input.checkMode').attr('checked', true);
+          $('select[data-name="ShowHints"]').trigger("change");
         }
       }
     });
