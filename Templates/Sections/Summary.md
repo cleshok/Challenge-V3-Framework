@@ -1,6 +1,6 @@
 # Summary
 
-@lab.Variable(GlobalRequirement)
+@lab.Variable(GlobalSummary)
 
 <!-- Show submit warning on expert labs -->
 !INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/LevelSpecific/Summary/@lab.Variable(difficulty).md)
