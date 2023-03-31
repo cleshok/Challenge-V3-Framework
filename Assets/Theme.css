@@ -382,7 +382,7 @@ code:not(.nocopy) {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #1a7b4a;
+    background-color: #aaa;
     transition: .4s;
   }
   
@@ -399,11 +399,11 @@ code:not(.nocopy) {
   }
   
   .instructions input:checked+.slider {
-    background-color: #aaa;
+    background-color: #1a7b4a;
   }
   
   .instructions input:focus+.slider {
-    box-shadow: 0 0 1px #aaa;
+    box-shadow: 0 0 1px #1a7b4a;
   }
   
   .instructions input:checked+.slider:before {
@@ -417,6 +417,10 @@ code:not(.nocopy) {
   
   .instructions .slider.round:before {
     border-radius: 50%;
+  }
+  
+  .hint-toggle {
+    margin: 0;
   }
   
   /* End of lab report */

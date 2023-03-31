@@ -6,6 +6,8 @@
 Challenge Overview
 :::
 
+@lab.Variable(GlobalIntroduction)
+
 ## Understand the scenario
 
 !INSTRUCTIONS[][overview]
