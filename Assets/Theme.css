@@ -21,27 +21,27 @@ code:not(.nocopy) {
   
   /* Page 0 */
   .logo-getting-started{
-    background-image:url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesGS.png);
+    background-image:url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Logos/GettingStarted.png");
     max-width: 100%;
   }
   
   .logo-guided{
-    background-image:url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesGuide.png);
+    background-image:url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Logos/Guided.png");
     max-width: 100%;
   }
   
   .logo-advanced{
-    background-image:url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesAdv.png);
+    background-image:url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Logos/Advanced.png");
     max-width: 100%;
   }
   
   .logo-expert{
-    background-image:url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesExp.png);
+    background-image:url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Logos/Expert.png");
     max-width: 100%;
   }
   
   .logo-adaptive{
-    background-image:url(https://lodmanuals.blob.core.windows.net/lms/SkillChalllogo/ChallengesAdapt.png);
+    background-image:url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Logos/Adaptive.png");
     max-width: 100%;
   }
   
@@ -239,7 +239,7 @@ code:not(.nocopy) {
   .instructions details summary::after {
     display: inline-block;
     content: " ";
-    background-image: url("https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/arrow.svg");
+    background-image: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/arrow.svg");
     /* Height/width needs to match image bg */
     height: 13.5px;
     width: 7.5px;
@@ -263,32 +263,32 @@ code:not(.nocopy) {
   .instructions details.hint-icon summary,
   .instructions span.hint-icon {
     background-size: 23px !important;
-    background: url(https://labondemand.blob.core.windows.net/content/lab104545/hint-icon.png) no-repeat left center;
+    background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/hint-icon.png") no-repeat left center;
   }
   
   .instructions .info-icon summary,
   .instructions span.info-icon {
     background-size: 23px !important;
-    background: url(https://labondemand.blob.core.windows.net/content/lab104545/info-icon.png) no-repeat left center;
+    background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/info-icon.png") no-repeat left center;
   }
   
   .instructions .know-icon summary,
   .instructions span.know-icon {
     background-size: 23px !important;
-    background: url(https://labondemand.blob.core.windows.net/content/lab104545/know-icon.png) no-repeat left center;
+    background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/know-icon.png") no-repeat left center;
   }
   
   .instructions .help-icon summary,
   .instructions span.help-icon {
     padding: 0.4em 1em 0.4em 3em;
     background-size: 23px !important;
-    background: url(https://labondemand.blob.core.windows.net/content/lab104545/help-icon.png) no-repeat left center;
+    background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/help-icon.png") no-repeat left center;
   }
   
   .instructions .warn-icon summary,
   .instructions span.warn-icon {
     background-size: 23px !important;
-    background: url(https://labondemand.blob.core.windows.net/content/lab104545/warn-icon.png) no-repeat left center;
+    background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/warn-icon.png") no-repeat left center;
     color: red;
   }
   
@@ -539,15 +539,15 @@ code:not(.nocopy) {
   }
   
   div.excelled ul li::before {
-    background-image: url("https://labondemand.blob.core.windows.net/content/lab129853/done.svg");
+    background-image: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/done.svg");
   }
   
   div.growth ul li.partial::before {
-    background-image: url("https://labondemand.blob.core.windows.net/content/lab129853/partial.svg");
+    background-image: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/partial.svg");
   }
   
   div.growth ul li.none::before {
-    background-image: url("https://labondemand.blob.core.windows.net/content/lab129853/miss.svg");
+    background-image: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/miss.svg");
   }
   
   .report-activity-title {
@@ -594,7 +594,7 @@ code:not(.nocopy) {
   #report-instance-details summary::after {
     display: inline-block;
     content: " ";
-    background-image: url(https://labondemand.blob.core.windows.net/content/lab129853/arrow.svg);
+    background-image: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/arrow.svg");
     height: 13px;
     width: 22px;
     margin-left: 1em;

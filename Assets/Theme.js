@@ -8,7 +8,7 @@ if (document.querySelector('link[href^="/css/exam-result/result.css"]') != null)
   
     try {
       // Retrieve the text and continue on success.
-      $.getScript("https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/EOLReport/CLabsEOL.js", function () {
+      $.getScript("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/EoLStrings.js", function () {
   
         // Capture the flavor text
         var strings = window.strings
