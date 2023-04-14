@@ -1,4 +1,4 @@
-@lab.Variable(GlobalRequirement)
+@lab.Variable(GlobalReqHeader)
 
 @lab.DropDownList(ShowHints)[Yes,No]
 
