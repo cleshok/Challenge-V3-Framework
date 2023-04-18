@@ -14,3 +14,4 @@ Challenge Overview
 
 !INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/LabHelp.md)
 
+@lab.DropDownList(ShowToggle)[Yes,No]
