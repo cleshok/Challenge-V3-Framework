@@ -1,6 +1,6 @@
 @lab.Variable(GlobalReqHeader)
 
-!INSTRUCTIONS[][requirement-scenario]:
+!INSTRUCTIONS[][requirement-scenario]
 
 @lab.DropDownList(ShowHints)[Yes,No]
 
