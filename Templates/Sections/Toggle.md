@@ -1,5 +1,7 @@
 @lab.Variable(GlobalReqHeader)
 
+!INSTRUCTIONS[][requirement-scenario]
+
 @lab.DropDownList(ShowHints)[Yes,No]
 
 :::hint-toggle
