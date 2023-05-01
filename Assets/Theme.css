@@ -239,7 +239,7 @@ code:not(.nocopy) {
   .instructions details summary::after {
     display: inline-block;
     content: " ";
-    background-image: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/arrow.svg");
+    background-image: url("https://lodmanuals.blob.core.windows.net/lms/2020%20Challenge%20Labs%20Graphics/arrow.svg");
     /* Height/width needs to match image bg */
     height: 13.5px;
     width: 7.5px;
@@ -253,6 +253,8 @@ code:not(.nocopy) {
     transform: rotate(90deg);
   }
   
+  /* Modification for updated icons */
+
   .instructions details[class$="-icon"] summary,
   .instructions span[class$="-icon"] {
     margin-left: 2.6em;
@@ -260,24 +262,28 @@ code:not(.nocopy) {
     display: block;
   }
   
+  blockquote.hint,
   .instructions details.hint-icon summary,
   .instructions span.hint-icon {
     background-size: 23px !important;
     background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/hint-icon.png") no-repeat left center;
   }
   
+  blockquote.note,
   .instructions .info-icon summary,
   .instructions span.info-icon {
     background-size: 23px !important;
     background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/info-icon.png") no-repeat left center;
   }
   
+  .knowledge,
   .instructions .know-icon summary,
   .instructions span.know-icon {
     background-size: 23px !important;
     background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/know-icon.png") no-repeat left center;
   }
   
+  blockquote.help,
   .instructions .help-icon summary,
   .instructions span.help-icon {
     padding: 0.4em 1em 0.4em 3em;
@@ -285,13 +291,32 @@ code:not(.nocopy) {
     background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/help-icon.png") no-repeat left center;
   }
   
+  .alert,
   .instructions .warn-icon summary,
   .instructions span.warn-icon {
     background-size: 23px !important;
     background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/warn-icon.png") no-repeat left center;
     color: red;
   }
-  
+
+
+/* Modification to ::before sections of icons */
+
+  blockquote.help::before, blockquote.hint::before, blockquote.note::before, .knowledge::before, .alert::before {
+    content: "";
+  }
+
+  blockquote.help, blockquote.hint, blockquote.note, .knowledge, .alert {
+    margin-left: 2.6em;
+    padding: .4em 1em .4em 3.3em;
+    display: block;
+    background-position: left 0px top 5px; 
+  }
+
+  .moreKnowledge {
+    background-color: transparent;
+  }  
+
   .instructions #instructionsNavigation {
     display: flex;
     align-content: center;
@@ -644,4 +669,20 @@ code:not(.nocopy) {
     color-adjust: exact !important;
     print-color-adjust: exact !important;
   }
+}
+
+.instructions blockquote.hint details ul li {
+    margin: 0;
+}
+
+.instructions blockquote.hint details ul li img {
+    margin: 0;
+}
+
+select[data-name="ShowToggle"] {
+    display: none;
+}
+
+div[ref="next-steps"] ul li{
+    margin-left: 0;
 }
