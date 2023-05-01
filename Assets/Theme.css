@@ -269,6 +269,7 @@ code:not(.nocopy) {
     background: url("https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Assets/Icons/hint-icon.png") no-repeat left center;
   }
   
+  blockquote.note,
   .instructions .info-icon summary,
   .instructions span.info-icon {
     background-size: 23px !important;
