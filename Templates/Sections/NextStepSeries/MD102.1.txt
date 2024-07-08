@@ -1,0 +1,6 @@
+- Configure device registration, create, validate, and assign deployment profiles for Autopilot [Guided]
+- Can You Configure and Deploy Windows Devices by Using Autopilot? [Advanced]
+- Create and Deploy Images with MDT [Guided]
+- Configure User State Migration [Guided]
+- Configure Remote Help in Intune [Guided]
+- Obtain Microsoft 365 Credentials [Prerequisite Lab]

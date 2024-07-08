@@ -1,0 +1,5 @@
+- Configure Security for an IAM User [Guided]
+- Implement an IAM Policy [Guided]
+- Implement a Security Monitoring Process [Guided]
+- Implement Encryption at Rest [Guided]
+- Implement Protection for Data and Infrastructure  [Guided]

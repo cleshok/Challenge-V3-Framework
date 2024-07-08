@@ -1,0 +1,7 @@
+- Manage Disk Partitions and File Systems [Guided]
+- Manage System Configuration Settings [Guided]
+- Use Windows Command-Line Tools [Guided]
+- Use Operating System Tools and Features [Guided]
+- Use Various Windows System Utilities [Guided]
+- Use Various Control Panel Applets [Guided]
+- Use Linux Tools and Commands [Guided]

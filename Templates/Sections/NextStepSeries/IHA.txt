@@ -1,0 +1,8 @@
+- Getting Started with Windows Server 2016 High Availability [Getting Started]
+- Implement High Availability and Disaster Recovery Options in Hyper-V [Guided]
+- Implement Failover Clustering for Highly Available File Server for General Use [Guided]
+- Can You Implement High Availability in Windows Server 2016? [Advanced]
+- Implement Storage Spaces Direct in a Scale Out File Server Cluster [Guided]
+- Manage Failover Clustering in a Hyper-V Host Cluster [Guided]
+- Configure Network Load Balancing for a Web Farm [Guided]
+- Can You Configure Enterprise High Availability? [Advanced]

@@ -1,0 +1,7 @@
+- Implement a Virtual Network Gateway in Azure  [Advanced]
+- Implement an Azure ExpressRoute Circuit [Advanced]
+- Implement Name Resolution in Azure [Advanced]
+- Implement an Azure Virtual WAN [Advanced]
+- Implement a Service Endpoint in Azure [Advanced]
+- Implement a Private Endpoint in Azure [Advanced]
+- Can You Implement and Harden an Azure Networking Solution?  [Expert]

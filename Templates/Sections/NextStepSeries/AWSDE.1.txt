@@ -1,0 +1,8 @@
+- Deploy an AWS Lambda Function [Advanced]
+- Create an Amazon DynamoDB Table [Advanced]
+- Access a DynamoDB Table Securely from an AWS Lambda Function [Advanced]
+- Create a Secure API Endpoint for a Lambda Function by Using Amazon API Gateway [Advanced]
+- Add a PUT Method to an Amazon API Gateway [Advanced]
+- Create a Production Deployment Environment in Amazon API Gateway [Advanced]
+- Secure Amazon API Gateway REST Methods by Using an Amazon Cognito User Pool [Advanced]
+- Can You Create a Secure Serverless REST API in AWS? [Expert]

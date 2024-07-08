@@ -1,0 +1,5 @@
+- Create and Manipulate an ArrayList in Java [Guided]
+- Sort Objects by Using a Comparator and a TreeSet [Guided]
+- Create and Manipulate a Map in Java [Guided]
+- Use a Lambda Expression in Java [Guided]
+- Manipulate a Stream in Java [Guided]

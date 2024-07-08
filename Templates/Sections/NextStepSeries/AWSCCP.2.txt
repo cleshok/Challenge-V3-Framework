@@ -1,0 +1,8 @@
+- Filter Traffic by Using AWS Web Application Firewall (WAF) [Guided]
+- Implement Best Practices by Using the AWS Trusted Advisor [Guided]
+- Create Resources by Using the Console, CLI and Cloud Formation [Guided]
+- Implement Microservices by Using AWS Containers [Guided]
+- Implement a CloudFront distribution for a Load Balanced Web Site [Guided]
+- Create a Message Queue by Using Amazon Simple Queue Service (SQS) [Guided]
+- Using AWS Cloud9 [Guided]
+- Implement Cost Management by Using the AWS Pricing Calculator [Guided]

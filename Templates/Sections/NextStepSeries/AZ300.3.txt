@@ -1,0 +1,7 @@
+- Install and Configure Microsoft Entra ID Connect [Guided]
+- Implement Azure Policy [Guided]
+- Implement Role-Based Access Control [Guided]
+- Create Role-Based Access Control Custom Roles [Guided]
+- Implement Managed Identities for Azure Virtual Machines [Guided]
+- Can You Configure Governance Over Microsoft Entra ID Security Principals? [Advanced]
+- Implement Multi-Factor Authentication for a Microsoft Entra User [Guided]

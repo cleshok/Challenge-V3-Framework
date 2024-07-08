@@ -1,0 +1,6 @@
+- Configure AWS Auto Scaling [Guided]
+- Implement Caching in AWS by Using DAX [Guided]
+- Implement Scaling for an Amazon RDS Instance [Guided]
+- Implement Health Checks by Using ELB and Route 53 [Guided]
+- Implement a Fault Tolerant File Service by Using EFS [Guided]
+- Automate Snapshots by Using DLM [Guided]

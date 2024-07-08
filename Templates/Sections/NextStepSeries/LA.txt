@@ -1,0 +1,12 @@
+- Getting Started with Linux Administration [Getting Started]
+- Obtain Root Credentials in Linux [Guided]
+- Vim Fundamentals in Linux [Guided]
+- Can You Manage Users in Linux? [Advanced]
+- Reset the Root Password in Linux [Guided]
+- Configure an Alias in Linux [Guided]
+- Can You Automate Administrative Tasks in Linux Using Cron and Scripting? [Advanced]
+- Configure an FTP Server with Linux [Guided]
+- Configure Rsync and Scp File Management in Linux [Guided]
+- Can You Document the Server in Linux? [Advanced]
+- Can You Configure Security for SSH in Linux? [Expert]
+

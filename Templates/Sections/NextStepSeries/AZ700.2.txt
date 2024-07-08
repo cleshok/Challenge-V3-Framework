@@ -1,0 +1,7 @@
+- Implement Azure Load Balancer in Azure [Advanced]
+- Implement Azure Traffic Manager [Advanced]
+- Implement Azure Application Gateway [Advanced]
+- Implement Azure Front Door [Advanced]
+- Implement Azure Firewall [Advanced]
+- Monitor Azure Virtual Network [Advanced]
+- Can You Implement and Monitor an Azure Networking Solution? [Expert]

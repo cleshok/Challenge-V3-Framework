@@ -1,0 +1,7 @@
+- Perform a Backup and Restore [Guided]
+- Use IP Addressing [Guided]
+- Configure Network Services [Guided]
+- Use Linux and Windows Network Command-Line Tools [Guided]
+- Perform Network Analysis [Guided]
+- Use Wireshark to Examine Network Communications [Guided]
+- Configure Remote Access [Guided]

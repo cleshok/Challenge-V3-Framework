@@ -1,0 +1,5 @@
+- Manage and Deploy Microsoft 365 Applications [Guided]
+- Manage Application Protection Policies [Guided]
+- Can You Plan and Implement Conditional Access Policies? [Advanced]
+- Manage App Configuration Policies [Guided]
+- Obtain Microsoft 365 Credentials [Prerequisite Lab]

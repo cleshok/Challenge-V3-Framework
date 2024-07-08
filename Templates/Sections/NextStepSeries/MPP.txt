@@ -1,0 +1,2 @@
+- Configure User Profiles [Guided]
+- Configure Sync Settings [Guided]

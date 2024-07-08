@@ -1,0 +1,2 @@
+- Configure Static Routes [Guided]
+- Configure Switch VLANs [Guided]

@@ -1,0 +1,5 @@
+- Configure Device Enrollment and Manage Enrolled Devices [Guided]
+- Implement Configuration Profiles [Guided]
+- Manage Android Devices by Using Profiles [Guided]
+- Implement Security Baselines in Intune [Guided]
+- Obtain Microsoft 365 Credentials [Prerequisite Lab]

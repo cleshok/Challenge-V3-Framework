@@ -1,0 +1,7 @@
+- Configure IP Addresses [Guided]
+- Configure Network Services [Guided]
+- Use Windows and Linux Network Command-Line Tools [Guided]
+- Perform Network Analysis [Guided]
+- Use Wireshark to Perform Network Sniffing [Guided]
+- Configure Remote Access [Guided]
+- Perform Network Troubleshooting [Guided]

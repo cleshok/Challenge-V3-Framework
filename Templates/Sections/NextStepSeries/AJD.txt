@@ -1,0 +1,5 @@
+- Create and Manipulate Arrays in Java [Guided]
+- Create Static Methods in Java [Guided]
+- Read and Write to a File in Java [Guided]
+- Handle Exceptions in Java [Guided]
+- Create an Enum in Java [Guided]

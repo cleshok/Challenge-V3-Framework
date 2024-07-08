@@ -1,0 +1,4 @@
+- Implement User Authentication on Windows Devices and Manage Group Membership [Guided]
+- Implement Compliance Policies [Guided]
+- Manage Notifications for Compliance Policies [Guided]
+- Obtain Microsoft 365 Credentials [Prerequisite Lab]

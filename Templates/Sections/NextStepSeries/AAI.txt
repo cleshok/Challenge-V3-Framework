@@ -1,0 +1,4 @@
+- Work with AI Prompts in Azure OpenAI Studio [Guided]
+- Configure AI Prompts by Using Company Data [Guided]
+- Creating a Chatbot from a Custom AI Prompt [Guided]
+- Build Open AI Solutions Resources by Using Azure AI Studio [Guided]
