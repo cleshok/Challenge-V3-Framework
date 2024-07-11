@@ -18,4 +18,5 @@ Challenge Overview
 @lab.DropDownList(ShowToggle)[Yes,No]
 @lab.DropDownList(ShowGuided)[Yes,No]
 @lab.DropDownList(ShowAdvanced)[Yes,No]
+@lab.DropDownList(ShowActivity)[Yes,No]
 :::
