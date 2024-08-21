@@ -17,8 +17,7 @@
 ^[New to Challenge Labs? Click here to learn more. ][Reference Link]
 
 > [Reference Link]:
->#**Challenges**
->#####Live envriornments. Scenario-based. Hands-on. 
+>![image](https://github.com/user-attachments/assets/c8c9cd66-abd6-412f-b6fe-770c2ce051d5)
 >
 >###**What are Challenges?**
 > 
