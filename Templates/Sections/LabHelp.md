@@ -14,5 +14,23 @@
 <span class=know-icon>A Knowledge block provides a deeper level of knowledge into a subject. It is a great way to solidify your understanding, but it is not strictly necessary to complete the Challenge Lab.</span>
 </details>
 
+^[New to Challenge Labs? Click here to learn more. ][Reference Link]
+
+> [Reference Link]:
+>#**Challenges**
+>#####Live envriornments. Scenario-based. Hands-on. 
+>
+>###**What are Challenges?**
+> 
+>Hands-on learning experiences resulting in evidence-based skills.​
+>Where you practice in realistic, safe, production-quality environments.​
+>Available in different levels: **Guided**, **Advanced** or **Expert**
+>![image](https://github.com/user-attachments/assets/6f5b8856-52ef-49e3-8600-31439f11bc75)
+>
+>###**What Makes Challenges Different?**
+> 
+>Challenges are problem-centered and focused on end results. Empowering you to explore, practice and “learn while doing” versus following a set of linear tasks.​
+>
+> ![image](https://github.com/user-attachments/assets/3a2bc80f-4679-470a-b4a2-5bfaa2e3716f)
 :::
 
