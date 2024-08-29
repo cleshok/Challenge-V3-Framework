@@ -27,14 +27,14 @@
 >- Where you practice in realistic, safe, production-quality environments.​
 >- Available in different levels: <span style="color:#24ed98">Guided</span>,<span style="color:#24ed98"> Advanced</span> or <span style="color:#24ed98">Expert</span>
 >
->!IMAGE[Level.jpg](instructions271496/Level.jpg)
+>![image](https://github.com/user-attachments/assets/2c5e4aca-b6f9-4e6f-aa30-feaa7cc72fa5)
 >
 >###**What Makes Challenge Labs Different?**
 > 
 >- Challenge Labs are problem-centered and focused on end results. Empowering you to explore, practice and “learn while doing” versus following a set of linear tasks.​​
 >- They are goal-oriented, short-duration, hands-on scored labs that bring <span style="color:#24ed98">skills validation</span> to the forefront of your experience. 
 >
->
->!IMAGE[Validation.jpg](instructions271496/Validation.jpg)
+>![image](https://github.com/user-attachments/assets/38922b1a-ba0e-4a72-b985-62db1d6d9c5d)
+
 :::
 
