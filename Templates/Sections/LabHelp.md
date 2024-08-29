@@ -13,6 +13,8 @@
 <span class=hint-icon>A Hint will guide you through a portion of the Challenge Lab.</span>
 <span class=know-icon>A Knowledge block provides a deeper level of knowledge into a subject. It is a great way to solidify your understanding, but it is not strictly necessary to complete the Challenge Lab.</span>
 </details>
+
+
 ^[New to Challenge Labs? Click here to learn more. ][Reference Link]
 
 > [Reference Link]:
