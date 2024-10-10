@@ -1,13 +1,23 @@
-# Summary
+# Summary 
 
-@lab.Variable(GlobalRequirement)
+!INSTRUCTIONS[][recap] 
 
-<!-- Show submit warning on expert labs -->
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/LevelSpecific/Summary/@lab.Variable(difficulty).md)
+<br> 
 
-!INSTRUCTIONS[][recap]
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/LevelSpecific/Summary/@lab.Variable(difficulty).md) 
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/Feedback.md)
-### Be sure to check out the other Challenge Labs in this series:
+<br> 
 
-!INSTRUCTIONS[][next-steps]
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/Feedback.md) 
+
+<br> 
+
+##Looking for your next Challenge Lab? 
+
+Below are recommended Challenge Labs to try next. 
+
+!INSTRUCTIONS[][next-steps] 
+
+<br> 
+
+@lab.Variable(GlobalSummary) 
