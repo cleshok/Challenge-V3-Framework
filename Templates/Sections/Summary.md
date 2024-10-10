@@ -18,6 +18,4 @@ Below are recommended Challenge Labs to try next.
 
 !INSTRUCTIONS[][next-steps] 
 
-<br> 
-
 @lab.Variable(GlobalSummary) 
