@@ -4,11 +4,11 @@
 
 <br> 
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/LevelSpecific/Summary/@lab.Variable(difficulty).md) 
+!INSTRUCTIONS[](https://raw.githubusercontent.com/cleshok/Challenge-V3-Framework/main/Templates/LevelSpecific/Summary/@lab.Variable(difficulty).md) 
 
 <br> 
 
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/Feedback.md) 
+!INSTRUCTIONS[](https://raw.githubusercontent.com/cleshok/Challenge-V3-Framework/main/Templates/Sections/Feedback.md) 
 
 <br> 
 
