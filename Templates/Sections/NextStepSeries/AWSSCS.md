@@ -7,7 +7,7 @@
 - Protect AWS Network Resources by Using WAF [Guided]
 - Configure a Secure Custom AMI [Guided]
 - Can You Deploy Secure AWS EC2 Resources [Advanced]
-- Implement AWS Credentials and Policies with IAM [Guided]
+- Implement AWS Credentials and Policies by using IAM [Guided]
 - Protect Data in Transit for AWS Resources [Guided]
 - Implement Encryption and Manage the Lifecycle of Data at Rest [Guided]
 - Can You Provide Secure Access to AWS Data and Resources [Advanced]
