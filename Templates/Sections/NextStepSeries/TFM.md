@@ -1,0 +1,3 @@
+- Use Terraform with AWS CloudShell to Deploy Resources [Guided]
+- Use Terraform with AWS Cloud9 to Deploy Resources [Guided]
+- Use Terraform with the Azure Shell to Deploy Resources [Guided]
